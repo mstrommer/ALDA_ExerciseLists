@@ -42,7 +42,8 @@ Positionen sind 1-Basiert. Nach jeder Eingabe wird die Lichterkette automatisch 
 
 
 ## Examples
-(Text in rot = Benutzereingabe)
+
+Ein- und Ausgabe auf der Konsole:
 
 > ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 > m: e
