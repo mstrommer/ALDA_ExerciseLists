@@ -16,7 +16,7 @@ Eine Lichterkette besteht aus mehreren LED Lampen in den Farben:
 | m    | Magenta |
 
 
-Die Lichterkette wird in Ihrem Programm in einer verketteten Liste gespeichert (alternativ als Array, max 60%).
+Die Lichterkette wird in Ihrem Programm in einer verketteten Liste gespeichert.
 Ein Menü führt durch das Programm:
 
 1. a Anfang:
