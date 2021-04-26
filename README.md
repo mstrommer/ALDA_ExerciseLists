@@ -1,8 +1,20 @@
-# Exercise Lists
+# Exercise "Lichterkette"
 
 ## Problem Description
 
-See Moodle course and source code TODO instructions for details.
+Eine Baumarktkette möchte die Wirkung von LED-Lichterketten testen und bittet Sie daher, eine Simulationssoftware in “C” zu schreiben.
+
+Eine Lichterkette besteht aus mehreren LED Lampen in den Farben:
+
+| Code | Farbe   |
+|------|---------|
+| r    | Rot     |
+| g    | Grün    |
+| b    | Blau    |
+| w    | Weiß    |
+| o    | Orange  |
+| m    | Magenta |
+
 
 ## Objective
 
