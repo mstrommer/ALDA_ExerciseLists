@@ -1,4 +1,4 @@
-# Exercise 3
+# Exercise Lists
 
 ## Problem Description
 
@@ -45,6 +45,3 @@ Explanations for the other files:
 
 Check all other rules with instructor.
 
-## License
-
-MIT License 2020
