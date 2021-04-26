@@ -44,15 +44,30 @@ Positionen sind 1-Basiert. Nach jeder Eingabe wird die Lichterkette automatisch 
 ## Examples
 (Text in rot = Benutzereingabe)
 
-> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{#Zahlendreher_Bspl2}
-> Zahl: \stdin{12}
-> Ausgabe: 210
->
-> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+> m: e
+> l: r
+> l: g
+> l: b
+> l: 0
+> Lichterkette: r - g - b
+> m: a
+> l: w
+> l: 0
+> Lichterkette: w - r - g - b
+> m: i
+> l: 2
+> l: 0
+> Lichterkette: w - r - o - g - b
+> m: l
+> p: 4
+> Lichterkette: w - r - o - b
+> m: u
+> Lichterkette: b - o - r - w
+> m: x
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
-m: e
-l: r
-l: g
-l: b
+
+
