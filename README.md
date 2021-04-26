@@ -42,10 +42,17 @@ Positionen sind 1-Basiert. Nach jeder Eingabe wird die Lichterkette automatisch 
 
 
 ## Examples
+(Text in rot = Benutzereingabe)
 
-- Make the code pass correctly on all tests
-   * only change the allowed files to achieve this goal (see instructions below with specific rules).
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{#Zahlendreher_Bspl2}
+> Zahl: \stdin{12}
+> Ausgabe: 210
+>
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- The GitHub Actions should present a green marker when all tests are satisfied, and a red X when some (or all) of tests fail. 
-    * **Advice:** You can click on the red X to verify which tests have failed (or if code didn't compile correctly).
 
+
+m: e
+l: r
+l: g
+l: b
