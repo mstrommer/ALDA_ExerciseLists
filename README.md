@@ -58,7 +58,7 @@ Ein- und Ausgabe auf der Konsole:
 > Lichterkette: w - r - g - b
 > m: i
 > p: 2
-> l: 0
+> l: o
 > Lichterkette: w - r - o - g - b
 > m: l
 > p: 4
